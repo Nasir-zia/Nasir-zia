@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Nasir zia</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+-->
+
+
+<h1 align="center">Hi 👋, I'm Nasir zia</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h>
 <img align ="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
 
 
